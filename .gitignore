@@ -1,0 +1,6 @@
+node_modules/
+.next/
+.expo/
+mobile/lib/config.ts
+.env
+.env.local
